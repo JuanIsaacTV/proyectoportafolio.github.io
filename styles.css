@@ -1,12 +1,12 @@
 body {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: hsl(258, 64%, 55%);
-    color: #ec0e1e;
+    background-color: #333;
+    color: #fff;
     text-align: center;
     padding: 20px;
 }
